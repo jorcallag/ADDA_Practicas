@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="652"/>
+		<item key="DIALOG_Y_ORIGIN" value="362"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="ls"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="list_monedas"/>
+			<item value="NuevaMoneda"/>
+			<item value="ls"/>
+			<item value="DatosOnjetivo_AG"/>
+			<item value="DatosUniverso_AG"/>
+			<item value="Tarea_PLE"/>
+			<item value="AsignaciondeTareasRF"/>
+			<item value="Universo_PLI"/>
+			<item value="Preconditions.checkState(!solver.isFeasible(solutionPoint,solutionValue));"/>
+			<item value="ProblemaReinasAG"/>
+			<item value="CromosomaUniverso"/>
+			<item value="ProblemaReal"/>
+			<item value="Universo"/>
+			<item value="peso"/>
+			<item value="conjunto"/>
+		</list>
+		<list key="replacehistory">
+			<item value="ls"/>
+			<item value="moneda"/>
+			<item value="alumnos"/>
+			<item value="DatosObjetivo_AG"/>
+			<item value="DatosOnjetivo_AG"/>
+			<item value="Tarea_AG"/>
+			<item value="PI3BEj10_RF"/>
+			<item value="Universo_AG"/>
+			<item value="DatosReinas_AG"/>
+			<item value="CromosomaUniverso_AG"/>
+			<item value="CromosomaUniverso"/>
+			<item value="Tarea"/>
+			<item value="duracion"/>
+			<item value="horaInicio"/>
+			<item value="DatosUniverso"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="801"/>
+		<item key="DIALOG_Y_ORIGIN" value="222"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;PI3B&apos;&#x0D;&#x0A;- Original project: &apos;Solve&apos;&#x0D;&#x0A;- Destination element: &apos;PI3B&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     lpsolve55j.dll&#x0D;&#x0A;     lpsolve55.dll" description="Copy files" destination="=PI3B" element1="lib/win64/lpsolve55j.dll" element2="lib/win64/lpsolve55.dll" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1585126879128" units="0" version="1.0"/>
+</session>

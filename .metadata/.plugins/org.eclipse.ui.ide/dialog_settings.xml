@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Jorlu\git\adda2019\java\EjemplosPL_AG_RF"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Jorlu\Desktop\WS\ADDA\PI3A"/>
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\Jorlu\Downloads\EntregablePI3B\PI3B.zip"/>
+			<item value="C:\Users\Jorlu\Downloads\EntregablePI3A\PI3A.zip"/>
+			<item value="C:\Users\Jorlu\Downloads\Entregable PI2B\PI2B.zip"/>
+			<item value="C:\Users\Jorlu\Downloads\Entregable PI2A\Java\PI1B.zip"/>
+			<item value="C:\Users\Jorlu\Downloads\Entregable PI1B\Java\PI1B.zip"/>
+			<item value="C:\Users\Jorlu\Downloads\Entregable PI1A\Java\PI1A.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>

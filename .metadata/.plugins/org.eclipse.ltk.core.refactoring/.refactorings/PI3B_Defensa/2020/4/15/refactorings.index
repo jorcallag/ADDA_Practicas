@@ -1,0 +1,33 @@
+1586454812370	Move compilation units
+1586456698998	Rename type 'ej7'
+1586456759553	Delete element
+1586467763900	Delete element
+1586467915445	Delete element
+1586468853027	Rename type 'DatosUniverso'
+1586468861745	Rename type 'Universo'
+1586468892778	Rename type 'DatosTarea'
+1586468901543	Rename type 'Tarea'
+1586473103378	Rename package 'PI3BEj5'
+1586473174219	Move compilation unit
+1586473178833	Move compilation unit
+1586473194826	Rename type 'DatosUniverso_PLI'
+1586473201398	Rename type 'Universo_PLI'
+1586473239628	Rename type 'DatosReinas_AG'
+1586473257604	Rename type 'CromosomaUniverso_AG'
+1586473299709	Move compilation unit
+1586473302832	Move compilation unit
+1586473313164	Rename package 'PI3BEj8'
+1586473332752	Rename package 'PI3BEj5_PLI'
+1586473342798	Rename package 'PI3BEj8_PLI'
+1586473404364	Rename package 'PI3BEj6'
+1586473436611	Move compilation unit
+1586473483905	Rename package 'PI3BEj7'
+1586473489780	Move compilation unit
+1586473674966	Rename type 'DatosTarea_PLI'
+1586473682188	Rename type 'Tarea_PLI'
+1586473745189	Rename type 'DatosObjetivos'
+1586473865010	Rename package 'PI3BEj9'
+1586473879536	Rename package 'PI3BEj10'
+1586539537967	Rename type 'DatosUniverso'
+1586539552446	Rename type 'Universo'
+1586539585583	Rename compilation unit 'CromosomaUniverso.java'
